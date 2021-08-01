@@ -1,5 +1,5 @@
 # 7 The seventh task in Mechanical Engineering Path
-In this task, I will draw the robot arm, taking into account the places of the Servo motor and the bearing, and each of them will be explained in this report.
+In this task, I will draw the ChatBot arm, taking into account the places of the Servo motor and the bearing, and each of them will be explained in this report.
 ## 7.1 Servo Motor[1]
 A Servo Motor is a Rotary actuator or linear actuator that allows for precise control of angular or linear position, velocity and acceleration. It consists of a suitable motor coupled to a sensor for position feedback. Servo Motors comes in different sizes and shapes, but the basic working principle of all Servo Motors is exactly the same.
 ![Picture](https://b.top4top.io/p_2039pwcvq1.jpeg)
